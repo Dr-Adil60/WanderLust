@@ -43,7 +43,7 @@ To run this project locally, follow these steps:
 ## ***1. Clone the Repository***
 bash
 Copy code
-git clone https://github.com/Adil60/project-main.git
+git clone https://github.com/Adil60/WanderLust.git
 cd wanderlust
 
 ## ***2. Install Dependencies***
